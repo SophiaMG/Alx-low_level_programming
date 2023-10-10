@@ -1,6 +1,6 @@
 #include "main.h"
 #include <stdio.h>
-/** 
+/**
  * times_table - function of the multiplication process
  * Return: none
  */
